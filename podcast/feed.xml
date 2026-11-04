@@ -25,5 +25,17 @@
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:episode>1</itunes:episode>
 </item>
+<item>
+<title>Pirates: Hollywood Lied About Everything</title>
+<itunes:title>Pirates: Hollywood Lied About Everything</itunes:title>
+<description>Arrr, walking the plank, buried treasure — all invented. The real pirates were far stranger.</description>
+<enclosure url="https://kpnt88.github.io/untold-facts-site/podcast/episodes/ep2_pirates.mp3" length="1198892" type="audio/mpeg"/>
+<guid>https://kpnt88.github.io/untold-facts-site/podcast/episodes/ep2_pirates.mp3</guid>
+<pubDate>Wed, 04 Nov 2026 22:24:41 -0000</pubDate>
+<itunes:duration>142</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:episode>2</itunes:episode>
+</item>
 </channel>
 </rss>
